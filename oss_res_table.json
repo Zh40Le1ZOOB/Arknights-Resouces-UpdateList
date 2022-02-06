@@ -1,0 +1,184 @@
+{
+    "ossServerEndPoint": "oss-cn-shanghai.aliyuncs.com",
+    "ossServerBucket": "arknights-static",
+    "ossServerHost": "arknights-static.oss-cn-shanghai.aliyuncs.com",
+    "ossServerCdnHost1": "ak.hycdn.cn",
+    "ossServerCdnHost2": "ak-hu.hycdn.cn",
+    "ossServerCdnHost3": "test.hycdn.cn",
+    "activities": {
+        "a001": {
+            "resVersion": "21-04-20-13-10-55-17ee8d",
+            "officialExist": true,
+            "bilibiliExist": true,
+            "name": null
+        },
+        "act10d5": {
+            "resVersion": "20-07-08-12-58-19-ee6a0d",
+            "officialExist": true,
+            "bilibiliExist": true,
+            "name": "乌萨斯的孩子们"
+        },
+        "act11d0": {
+            "resVersion": "21-06-15-09-54-40-c564c9",
+            "officialExist": true,
+            "bilibiliExist": true,
+            "name": "沃伦姆德的薄暮"
+        },
+        "act12d0": {
+            "resVersion": "21-07-19-08-52-45-d4be51",
+            "officialExist": true,
+            "bilibiliExist": true,
+            "name": "密林悍将归来"
+        },
+        "act12d6": {
+            "resVersion": "20-08-24-09-47-26-b1935e",
+            "officialExist": true,
+            "bilibiliExist": true,
+            "name": "刻俄柏的灰蕈迷境"
+        },
+        "act12side": {
+            "resVersion": "21-08-13-11-15-40-b56358",
+            "officialExist": true,
+            "bilibiliExist": true,
+            "name": "多索雷斯假日"
+        },
+        "act13d0": {
+            "resVersion": "20-09-27-11-52-42-b18257",
+            "officialExist": true,
+            "bilibiliExist": true,
+            "name": "踏寻往昔之风"
+        },
+        "act13d5": {
+            "resVersion": "21-09-28-11-41-43-f739f9",
+            "officialExist": true,
+            "bilibiliExist": true,
+            "name": "玛莉娅·临光"
+        },
+        "act13side": {
+            "resVersion": "21-11-10-05-52-36-9b74e0",
+            "officialExist": true,
+            "bilibiliExist": true,
+            "name": "长夜临光"
+        },
+        "act14side": {
+            "resVersion": "21-12-25-11-18-44-23a573",
+            "officialExist": true,
+            "bilibiliExist": true,
+            "name": "风雪过境"
+        },
+        "act15d0": {
+            "resVersion": "20-12-15-10-24-21-bcc8ba",
+            "officialExist": true,
+            "bilibiliExist": true,
+            "name": "孤岛风云"
+        },
+        "act15d5": {
+            "resVersion": "20-12-29-12-56-19-bba809",
+            "officialExist": true,
+            "bilibiliExist": true,
+            "name": "此地之外"
+        },
+        "act15side": {
+            "resVersion": "22-01-23-11-00-03-b1a021",
+            "officialExist": true,
+            "bilibiliExist": true,
+            "name": "将进酒"
+        },
+        "act16d5": {
+            "resVersion": "21-02-08-10-04-10-6ca1a8",
+            "officialExist": true,
+            "bilibiliExist": true,
+            "name": "画中人"
+        },
+        "act17d0": {
+            "resVersion": "21-03-11-14-04-07-710103",
+            "officialExist": true,
+            "bilibiliExist": true,
+            "name": "源石尘行动"
+        },
+        "act17d1": {
+            "resVersion": "21-03-05-09-35-05-0ed8ea",
+            "officialExist": true,
+            "bilibiliExist": true,
+            "name": "罗德岛防御协议"
+        },
+        "act17d7": {
+            "resVersion": "21-03-31-08-05-16-bca992",
+            "officialExist": true,
+            "bilibiliExist": true,
+            "name": "愚人节活动"
+        },
+        "act18d0": {
+            "resVersion": "21-04-20-13-10-55-17ee8d",
+            "officialExist": true,
+            "bilibiliExist": true,
+            "name": "遗尘漫步"
+        },
+        "act18d3": {
+            "resVersion": "21-05-06-11-51-36-5745bd",
+            "officialExist": true,
+            "bilibiliExist": true,
+            "name": "覆潮之下"
+        },
+        "act1lock": {
+            "resVersion": "21-06-29-14-22-43-a5e7c6",
+            "officialExist": true,
+            "bilibiliExist": true,
+            "name": "荷谟伊智境"
+        },
+        "act3d0": {
+            "resVersion": "20-08-10-07-52-45-69cad6",
+            "officialExist": true,
+            "bilibiliExist": true,
+            "name": "火蓝之心"
+        },
+        "act5d0": {
+            "resVersion": "20-04-20-15-34-27-5af8de",
+            "officialExist": false,
+            "bilibiliExist": false,
+            "name": "喧闹法则"
+        },
+        "act5d1": {
+            "resVersion": "20-04-22-07-09-03-1a4e1a",
+            "officialExist": false,
+            "bilibiliExist": false,
+            "name": "危机合约"
+        },
+        "act6d5": {
+            "resVersion": "20-04-22-07-09-03-1a4e1a",
+            "officialExist": false,
+            "bilibiliExist": false,
+            "name": "洪炉示岁"
+        },
+        "act7d5": {
+            "resVersion": "20-07-08-12-58-19-ee6a0d",
+            "officialExist": true,
+            "bilibiliExist": true,
+            "name": "午间逸话"
+        },
+        "act7mini": {
+            "resVersion": "21-05-28-09-46-08-b330c3",
+            "officialExist": true,
+            "bilibiliExist": true,
+            "name": "灯火序曲"
+        },
+        "act8mini": {
+            "resVersion": "21-07-09-11-29-30-f11d8b",
+            "officialExist": true,
+            "bilibiliExist": true,
+            "name": "如我所见"
+        },
+        "act9d0": {
+            "resVersion": "20-07-08-12-58-19-ee6a0d",
+            "officialExist": true,
+            "bilibiliExist": true,
+            "name": "生于黑夜"
+        },
+        "act9mini": {
+            "resVersion": "21-10-11-12-30-51-9ab9d9",
+            "officialExist": true,
+            "bilibiliExist": true,
+            "name": "红松林"
+        }
+    }
+}
