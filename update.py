@@ -1,4 +1,3 @@
-from operator import contains
 import oss2, json
 with open('H:/RhodeIslandRT/oss_res_table.json', 'r', encoding='utf-8') as f1, open('H:/RhodeIslandRT/activity_table.json', 'r', encoding='utf-8') as f2:
     oss_res_table: dict = json.load(f1)
